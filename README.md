@@ -1,13 +1,13 @@
 # AGV_example
-Código do AGV em Javascript proveniente do SysADL mas com visão operacional.
+Código do AGV em Javascript proveniente do SysADL com visão operacional e Logs de Execução.
 
-Esse repositorio contem:
+Esse repositorio contém:
 
 
 Código inicial do AGV em sysADL: AGV.sysadl
 
 
-Codigo transformado do AGV: AGV_JS.js
+Código transformado do AGV: AGV_JS.js
 
 
 Código do log: agvfile.log
