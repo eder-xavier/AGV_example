@@ -1,0 +1,100 @@
+Iniciando simulação do SysADLArchitecture.sysadl
+Iniciando simulação do SysADLArchitecture.sysadl
+Inicializando componente Motor, isBoundary: true
+Inicializando componente SupervisorySystem, isBoundary: true
+Inicializando conector notifySupervisory
+Inicializando porta outStatus com flowType any, direção out
+Inicializando porta inAck com flowType any, direção in
+Porta outStatus adicionada ao componente Motor, flowType: any
+Porta inAck adicionada ao componente SupervisorySystem, flowType: any
+Criando binding de Motor.outStatus para SupervisorySystem.inAck via conector notifySupervisory
+Binding adicionado à porta outStatus: Motor.outStatus -> SupervisorySystem.inAck
+Conector notifySupervisory configurado com sourcePort outStatus e targetPort inAck
+SystemCP.start()
+Executando NotifySupervisoryFromMotorEX com params: {"statusMotor":"started"}
+Porta outStatus enviando dados: "departed"
+Propagando dados "departed" via binding para inAck
+Conector notifySupervisory transmitindo dados: "departed"
+Conector notifySupervisory processando dados: "departed"
+Porta inAck recebendo dados: "departed"
+Componente SupervisorySystem recebeu dados na porta inAck: "departed"
+Inicializando porta outStatus com flowType any, direção out
+Inicializando porta inAck com flowType any, direção in
+Porta outStatus adicionada ao componente Motor, flowType: any
+Porta inAck adicionada ao componente SupervisorySystem, flowType: any
+Criando binding de Motor.outStatus para SupervisorySystem.inAck via conector notifySupervisory
+Binding adicionado à porta outStatus: Motor.outStatus -> SupervisorySystem.inAck
+Conector notifySupervisory configurado com sourcePort outStatus e targetPort inAck
+SystemCP.start()
+Executando NotifySupervisoryFromMotorEX com params: {"statusMotor":"started"}
+Porta outStatus enviando dados: "departed"
+Propagando dados "departed" via binding para inAck
+Conector notifySupervisory transmitindo dados: "departed"
+Conector notifySupervisory processando dados: "departed"
+Porta inAck recebendo dados: "departed"
+Componente SupervisorySystem recebeu dados na porta inAck: "departed"
+Inicializando porta inAck com flowType any, direção in
+Porta outStatus adicionada ao componente Motor, flowType: any
+Porta inAck adicionada ao componente SupervisorySystem, flowType: any
+Criando binding de Motor.outStatus para SupervisorySystem.inAck via conector notifySupervisory
+Binding adicionado à porta outStatus: Motor.outStatus -> SupervisorySystem.inAck
+Conector notifySupervisory configurado com sourcePort outStatus e targetPort inAck
+SystemCP.start()
+Executando NotifySupervisoryFromMotorEX com params: {"statusMotor":"started"}
+Porta outStatus enviando dados: "departed"
+Propagando dados "departed" via binding para inAck
+Conector notifySupervisory transmitindo dados: "departed"
+Conector notifySupervisory processando dados: "departed"
+Porta inAck recebendo dados: "departed"
+Componente SupervisorySystem recebeu dados na porta inAck: "departed"
+Porta outStatus adicionada ao componente Motor, flowType: any
+Porta inAck adicionada ao componente SupervisorySystem, flowType: any
+Criando binding de Motor.outStatus para SupervisorySystem.inAck via conector notifySupervisory
+Binding adicionado à porta outStatus: Motor.outStatus -> SupervisorySystem.inAck
+Conector notifySupervisory configurado com sourcePort outStatus e targetPort inAck
+SystemCP.start()
+Executando NotifySupervisoryFromMotorEX com params: {"statusMotor":"started"}
+Porta outStatus enviando dados: "departed"
+Propagando dados "departed" via binding para inAck
+Conector notifySupervisory transmitindo dados: "departed"
+Conector notifySupervisory processando dados: "departed"
+Porta inAck recebendo dados: "departed"
+Componente SupervisorySystem recebeu dados na porta inAck: "departed"
+Porta inAck adicionada ao componente SupervisorySystem, flowType: any
+Criando binding de Motor.outStatus para SupervisorySystem.inAck via conector notifySupervisory
+Binding adicionado à porta outStatus: Motor.outStatus -> SupervisorySystem.inAck
+Conector notifySupervisory configurado com sourcePort outStatus e targetPort inAck
+SystemCP.start()
+Executando NotifySupervisoryFromMotorEX com params: {"statusMotor":"started"}
+Porta outStatus enviando dados: "departed"
+Propagando dados "departed" via binding para inAck
+Conector notifySupervisory transmitindo dados: "departed"
+Conector notifySupervisory processando dados: "departed"
+Porta inAck recebendo dados: "departed"
+Componente SupervisorySystem recebeu dados na porta inAck: "departed"
+Binding adicionado à porta outStatus: Motor.outStatus -> SupervisorySystem.inAck
+Conector notifySupervisory configurado com sourcePort outStatus e targetPort inAck
+SystemCP.start()
+Executando NotifySupervisoryFromMotorEX com params: {"statusMotor":"started"}
+Porta outStatus enviando dados: "departed"
+Propagando dados "departed" via binding para inAck
+Conector notifySupervisory transmitindo dados: "departed"
+Conector notifySupervisory processando dados: "departed"
+Porta inAck recebendo dados: "departed"
+Componente SupervisorySystem recebeu dados na porta inAck: "departed"
+SystemCP.start()
+Executando NotifySupervisoryFromMotorEX com params: {"statusMotor":"started"}
+Porta outStatus enviando dados: "departed"
+Propagando dados "departed" via binding para inAck
+Conector notifySupervisory transmitindo dados: "departed"
+Conector notifySupervisory processando dados: "departed"
+Porta inAck recebendo dados: "departed"
+Componente SupervisorySystem recebeu dados na porta inAck: "departed"
+Propagando dados "departed" via binding para inAck
+Conector notifySupervisory transmitindo dados: "departed"
+Conector notifySupervisory processando dados: "departed"
+Porta inAck recebendo dados: "departed"
+Componente SupervisorySystem recebeu dados na porta inAck: "departed"
+Componente SupervisorySystem recebeu dados na porta inAck: "departed"
+Simulação do sistema concluída
+
